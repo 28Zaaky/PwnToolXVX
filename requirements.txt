@@ -1,0 +1,2 @@
+pwntools
+r2pipe
