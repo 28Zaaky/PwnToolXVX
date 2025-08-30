@@ -36,9 +36,7 @@ Outil de pentesting pour l'analyse approfondie de fichiers binaires, spécialis�
 - Nécessite des connaissances avancées en sécurité
 
 ## Cas d'Usage
-- Tests de pénétration
 - Audit de sécurité
-- Recherche de vulnérabilités
 - Éducation en cybersécurité
 
 ## Principes Éthiques
